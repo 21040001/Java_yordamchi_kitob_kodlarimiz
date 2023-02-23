@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Hisoblash {
+public class Hafta_kuni {
     public static  void  main(String[] args){
 
 
