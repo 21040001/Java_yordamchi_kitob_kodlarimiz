@@ -1,4 +1,4 @@
-
+package sinflar;
 public class Foydalanuvchi {
 
 	//o'zgaruvchilar
