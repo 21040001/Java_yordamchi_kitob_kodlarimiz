@@ -1,5 +1,5 @@
 
-public class Sinflar {
+public class Foydalanuvchi {
 
 	//o'zgaruvchilar
     private String ism ;
@@ -8,13 +8,13 @@ public class Sinflar {
     private String jinsi;
 
     //quruvchi metodlar
-    public Sinflar() {
+    public Foydalanuvchi() {
         ism = "";
         familiya = "";
         yosh =-1 ;
         jinsi="";
     }
-    public Sinflar(String pism , String pfamiliya, int pyosh, String pjinsi){
+    public Foydalanuvchi(String pism , String pfamiliya, int pyosh, String pjinsi){
         ism = pism;
         familiya =pfamiliya;
         yosh =pyosh;
