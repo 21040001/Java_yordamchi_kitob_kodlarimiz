@@ -1,4 +1,4 @@
-package sinflar;
+package Sinflar; //package orqali biz kod faylimizni qanday nomli fayl ichkarisida joylashganini ko'rsatib o'tamiz.
 public class Foydalanuvchi {
 
 	//o'zgaruvchilar
